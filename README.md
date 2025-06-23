@@ -1,5 +1,5 @@
 # WindowControlsOverlay example
-| Dynamic toolbar generation example on Electron. 
+> Dynamic toolbar generation example on Electron. 
 
 ## Install
 
